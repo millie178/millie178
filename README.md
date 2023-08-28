@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shulei Wang</h1>
+<h1 align="center">Hi 👋, I'm Shulei Wang👩🏻‍💻</h1>
 <h3 align="center">A passionate frontend developer from Luther College</h3>
 
 <h3 align="left">Connect with me:</h3>
