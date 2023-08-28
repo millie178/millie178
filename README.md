@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shulei Wang👩🏻‍💻</h1>
 <h3 align="center">👩🏻‍🎓 College Student | 🌟 Front-End Enthusiast | 🌍 Harnessing Tech for Good</h3>
 
-<p>I am a passionate college student on a journey to create meaningful impact through technology. As a front-end aficionado, I love crafting captivating user experiences using HTML, CSS, and JavaScript. 🚀 I am also comfortable with Python. </p>
+<p>I am a passionate college student on a journey to create meaningful impact through technology. As a front-end aficionado, I love crafting captivating user experiences using HTML, CSS, and JavaScript. </p>
+  
+<p>🚀 I am also comfortable with Python. </p>
 
 🔮 Exploring the magic of code, I've also dabbled in Java. My goal? To leverage the power of technology to shape a brighter, more inclusive world for all. 💡
 
