@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shulei Wang👩🏻‍💻</h1>
 <h3 align="center">👩🏻‍🎓 | 🌟 Data Enthusiast | 🌍 Harnessing Tech for Good</h3>
 
-<p>I am passionate about a journey to create meaningful impact through technology. As an analyst, I love crafting captivating user experiences using VBA, Python, and plpgsql. </p>
+<p>I am passionate about a journey to create meaningful impact through technology. As an analyst, I love crafting captivating user experiences using VBA, Python, and PL/pgSQL. </p>
 
 🔮 Exploring the magic of code, I've also dabbled in Java. My goal? To leverage the power of technology to shape a brighter, more inclusive world for all. 💡
 
